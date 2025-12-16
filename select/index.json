@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "天国と地獄",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-16T02:50:34.227156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天国と地獄",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_天国と地獄_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天国と地獄",
+      "artist": "Ogawa, Mishio",
+      "has_synced": false,
+      "path": "select/02_天国と地獄_Ogawa,_Mishio.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天国と地獄[完全版]",
+      "artist": "SEGA Sound Unit [H.]",
+      "has_synced": true,
+      "path": "select/03_天国と地獄[完全版]_SEGA_Sound_Unit_[H.].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天国と地獄",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_天国と地獄_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
